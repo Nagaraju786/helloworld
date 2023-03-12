@@ -12,5 +12,7 @@ int main()
     {
         cout << word << "\n";
     }
+    cout << "End Program";
     cout << endl;
+    return 0;
 }
